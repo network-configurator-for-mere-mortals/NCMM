@@ -1,0 +1,1 @@
+This folder contains user-contributed configuration backups for various network management devices. The purpose of these files is to serve as a library for creating NCMM device profiles (used by NCMM for deploying network configurations created in NCMM).
